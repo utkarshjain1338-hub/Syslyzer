@@ -1,0 +1,17 @@
+# Environment files / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Compiled binaries
+sysinfo
+bin/
+dist/
+
+# Editor / OS files
+.idea/
+.vscode/
+.DS_Store
